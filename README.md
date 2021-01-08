@@ -1,2 +1,9 @@
 # App Java Desktop Gestion d'un stock de produits alimentaires
- Cette application a pour but de faciliter L’opération de commander les produits alimentaires que ça soit pour les chefs de rayons ou pour l’admin. Il existe deux types d’utilisateurs qui accède à l’application : chef de rayon et l’administrateur, le chef de rayon a le rôle de commander les produits alimentaire de son rayon et lister ses commandes par contre l’administrateur gère les chefs et gérer les commandes effectué par les chefs.
+Dans ce projet, l’application visée offrira plusieurs fonctionnalités. Ainsi, l’application Desktop permettra de :
+	Gérer (ajouter, afficher, modifier, supprimer) la liste de tous les chefs de rayon.
+	Lister tous les commandes réalisées par les chefs.
+	Modifier les informations personnelles de chaque utilisateur.
+	Afficher les commandes effectuées pour chaque chef dans son compte.
+	Pour chaque chef de rayon, le système affiche juste les produits à commander qui appartiennent à son rayon.
+	Le système enregistre les commandes effectuées par les chefs et les rendre en état «En cour de de traitement ».
+
