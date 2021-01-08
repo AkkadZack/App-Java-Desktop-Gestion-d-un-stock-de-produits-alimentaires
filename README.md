@@ -1,0 +1,2 @@
+# App Java Desktop Gestion d'un stock de produits alimentaires
+ Cette application a pour but de faciliter L’opération de commander les produits alimentaires que ça soit pour les chefs de rayons ou pour l’admin. Il existe deux types d’utilisateurs qui accède à l’application : chef de rayon et l’administrateur, le chef de rayon a le rôle de commander les produits alimentaire de son rayon et lister ses commandes par contre l’administrateur gère les chefs et gérer les commandes effectué par les chefs.
